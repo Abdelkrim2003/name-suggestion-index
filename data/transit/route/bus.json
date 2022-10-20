@@ -2961,6 +2961,15 @@
       }
     },
     {
+      "displayName": "City Bus Meknès",
+      "locationSet": {"include": ["ma"]},
+      "tags": {
+        "network": "City Bus Meknès",
+	"network:wikidata": "Q114727483",    
+        "route": "bus"
+      }
+    }, 
+    {
       "displayName": "City of Windhoek",
       "id": "cityofwindhoek-3874f8",
       "locationSet": {"include": ["na"]},
